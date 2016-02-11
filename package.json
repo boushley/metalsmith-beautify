@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "debug": "^0.8.1",
-    "js-beautify": "~1.5.1",
+    "js-beautify": "^1.6.0",
     "lodash": "~2.4.1"
   }
 }
