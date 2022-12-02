@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-beautify",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "A plugin for metalsmith to format html / js.",
   "main": "lib/index.js",
   "repository": {
@@ -13,8 +13,7 @@
     "url": "https://github.com/boushley/metalsmith-beautify/issues"
   },
   "dependencies": {
-    "debug": "^0.8.1",
-    "js-beautify": "^1.6.0",
-    "lodash": "~2.4.1"
+    "debug": "^4.3.0",
+    "js-beautify": "^1.14.0"
   }
 }
